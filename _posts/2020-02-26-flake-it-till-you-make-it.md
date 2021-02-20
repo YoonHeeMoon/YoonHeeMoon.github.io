@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project1 - WalWal
-subtitle: 반려동물 동반가능 숙소 크롤링 후 가격순으로 정렬해주는 
+subtitle: 반려동물 동반가능 숙소 크롤링 및 가격비교 페이지 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
